@@ -121,7 +121,7 @@ On the right corner where you see the caution sign, click on it and click "Promo
 <img src="https://imgur.com/ndCMywm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click "Add a new forest" -> and specify the Root domain name: "mydomain.com" -> For the domain Controller Options for the (DSRM) password, type in "Password1" -> Uncheck "Create DNS Delegation" -> For Server Roles Check "Active Domain Directory Servers" Then click next Until you can Install.
+Click "Add roles and Features"-> "Add a new forest" -> and specify the Root domain name: "mydomain.com" -> For the domain Controller Options for the (DSRM) password, type in "Password1" -> Uncheck "Create DNS Delegation" -> For Server Roles Check "Active Domain Directory Servers" Then click next Until you can Install.
 </p>
 <br />
 
